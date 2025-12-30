@@ -21,3 +21,10 @@ rad.json
 #Test results file
 TestResults.xml
 /.vs
+
+# Build results
+bin/
+obj/
+
+# Visual Studio
+.vs/
